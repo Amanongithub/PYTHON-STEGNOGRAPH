@@ -1,0 +1,27 @@
+This is not the best stegnograph 
+but created from the combination of code from diffrent coders.
+You will find alot of bugs but will work smoothly when operated in right manner.
+IDLE PYTHON MUST BE INSTALLED
+
+1.PAste the parent directory to desktop(or any where else)
+2.Parent directory mst have the 'Workplace2' folder that is where your source file will be.
+
+
+START-
+1.open cc in IDLE and hit Run
+
+REMEMBER which module will work once .
+START WHERE TIME TO USE NEW MODULE.
+
+MUST INCLUDE EXTENTIONS WITH THE FILE.
+WORKS WITH 
+
+IMAGE-PNG
+SOUND-WAV
+DATA- TXT
+
+.............
+YOU ARE FREE TO EDIT IT AND USE FOR YOUR WORK:)
+
+
+APSINGH
